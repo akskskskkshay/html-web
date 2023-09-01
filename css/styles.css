@@ -84,6 +84,11 @@ ul{
     border: 0px;
 }
 
+.signup-btn a{
+    text-decoration: none;
+    color: white;
+}
+
 #title-1{
     font-size: 48px;
     font-weight: 800;
@@ -235,11 +240,29 @@ ul{
     width: 105px;
     font-size: 14px;
     font-weight: bold;
-    color: white;
+    
     background-color: #3882f6;
     border-radius: 8px;
     border: 2px solid white;
-  
+}
+
+.signup-btn-2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.section-5{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.copyright-text{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E5E7EB;
 }
 
 
