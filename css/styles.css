@@ -5,7 +5,7 @@
 
 .section-1{
     background-color: #1F2937;
-    height: 500px;
+    height: 530px;
     margin: 0px;
     padding: 0px;
    
@@ -91,7 +91,7 @@ ul{
 
 #title-1{
     font-size: 48px;
-    font-weight: 800;
+    font-weight: 1000;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #f9faf8;
 }
@@ -119,7 +119,7 @@ ul{
     gap: 45px;
     align-items: center;
     justify-content: center;
-    height: 400px;
+    height: 500px;
 }
 
 #title-2{
@@ -165,7 +165,7 @@ ul{
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    height: 400px;
+    height: 480px;
     gap: 20px;
     align-items: center;
     justify-content: center;
@@ -174,15 +174,18 @@ ul{
 .quote {
     display: flex;
     flex-direction: column;
-    width: 750px;
+    width: 790px;
     gap: 20px;
 }
 
-.quote-text{
-    font-size: 36px;
+#quote-text{
+    font-size: 33px;
     font-style: italic;
-    font-weight: 200;
-    color: #1F2937;
+    font-weight: 100;
+    color:#1F2937;
+    font-family: 'Noto Sans';
+    
+
 }
 
 .author{
